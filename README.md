@@ -40,7 +40,7 @@ The Page is a responsive web component designed to showcase a product in a clean
 
 ### Links
 
-- Live Site URL: (https://product-preview-blond.vercel.app/?vercelToolbarCode=zXE73ViAPTZJLWt)
+- Live Site URL: (https://four-card-feature-section-pi-six.vercel.app/)
 
 ## My process
 
@@ -58,4 +58,4 @@ To achieve this, I used a combination of Flexbox and CSS Grid for layout and ali
 
 ## Author
 
-- Website - [Rodel Advincula](https://product-preview-blond.vercel.app/?vercelToolbarCode=zXE73ViAPTZJLWt)
+- Website - [Rodel Advincula](https://four-card-feature-section-pi-six.vercel.app/)
